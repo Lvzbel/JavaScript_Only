@@ -1,3 +1,4 @@
+// This needs to be deleted
 // Listen for submit
 document.querySelector('#loan-form').addEventListener('submit', function (e) {
   // Hide results
